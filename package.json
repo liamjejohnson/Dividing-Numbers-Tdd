@@ -1,0 +1,15 @@
+{
+  "name": "dividing-numbers-tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fizzBuzz.js",
+  "dependencies": {
+    "jest": "^24.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "",
+  "license": "ISC"
+}
